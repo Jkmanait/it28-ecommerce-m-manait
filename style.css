@@ -78,7 +78,7 @@
     width: 25%;
     min-width: 10px;
     padding: 25px 25px;
-    border: 1px solid #3b1c91;
+    border: 1px solid #f5e2e2;
     border-radius: 1px;
     cursor: pointer;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.02);
@@ -124,7 +124,7 @@
     padding-top: 7px;
     font-size: 15px;
     font-weight: 700;
-    color: #8e82f5;
+    color: #606063;
 }
 
 #product1 .pro .cart{
@@ -134,7 +134,7 @@
     border-radius: 50px;
     background-color: #e8f6ea;
     font-weight: 500;
-    color: #8e82f5;
+    color: #5c4cf1;
     border: 1px solid #cce7d0;
     position: absolute;
     bottom: 20px;
@@ -167,6 +167,6 @@
 }
 
 .box a .fas{
-    color: #8e82f5;
+    color: #f5e2e2;
     font-size: 18px;
 }
