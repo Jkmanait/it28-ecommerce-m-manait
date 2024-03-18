@@ -128,8 +128,8 @@
 }
 
 #product1 .pro .cart{
-    width: 20px;
-    height: 20px;
+    width: 30px;
+    height: 25px;
     line-height: 20px;
     border-radius: 50px;
     background-color: #e8f6ea;
@@ -153,20 +153,17 @@
     box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);
 }
 
-.box:hover input{
-    width: 400px;
-}
-
 .box input{
-    width: 0;
+    width: 350px;
     outline: none;
     border: none;
     font-weight: 500;
-    transition: 0.8s;
+    transition: 1.0s;
     background: transparent;
 }
 
 .box a .fas{
-    color: #f5e2e2;
+    color: #000000;
     font-size: 18px;
 }
+
