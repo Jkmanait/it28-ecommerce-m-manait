@@ -9,7 +9,7 @@
     align-items: center;
     justify-content: space-between;
     padding: 20px 80px;
-    background-color: #fff;
+    background-color: #f5e2e2;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
     height: 60px;
     z-index: 999;
@@ -40,7 +40,7 @@
 
 #navbar li a:hover,
 #navbar li a.active{
-    color: #8e82f5;
+    color: #3b1c91;
 }
 
 #navbar li a.active::after,
@@ -48,7 +48,7 @@
     content: "";
     width: 30%;
     height: 4px;
-    background: #8e82f5;
+    background: #3b1c91;
     position: absolute;
     bottom: -4px;
     left: 20px;
